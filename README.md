@@ -1,2 +1,2 @@
 # lg-cloud
-Upload files to LiveGore Cloud with ease!
+Upload files to LiveGore Cloud with ease! [LiveGore](https://www.livegore.com) generously offers a permanent, unlimited file storage cloud for all the users who carried out the herculean task of making it to 1000 points. Indeed, the great traffick boost 1000-point users bring to the vibrant LiveGore community warrants nothing less than unlimited cloud storage (which can even be used as a CDN for your cringe tranime homepage!)
