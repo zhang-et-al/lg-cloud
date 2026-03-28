@@ -4,4 +4,8 @@ Upload files to LiveGore Cloud with ease! [LiveGore](https://www.livegore.com) g
 ## How to use
 1. Append the contents of [.bashrc](https://github.com/zhang-et-al/lg-cloud/blob/main/.bashrc) to your ~/.bashrc
 2. Put [lg-cloud.php](https://github.com/zhang-et-al/lg-cloud/blob/main/lg-cloud.php) anywhere you want. Fill in your email and password. Make sure you have LGBot.php in the same directory.
-And you're good to go! Use `livepic <image> <image> ...` to post a PNG, GIF or JPG and `livefile <file> <file> ...` to post anything else (albeit all files will be served with `video/mp4` mimetype)
+And you're good to go! Use
+```livepic <image1> <image2> ...```
+to upload a PNG, GIF or JPG, and
+```livefile <file1> <file2> ...```
+to post anything else (albeit all files will be served with `video/mp4` mimetype)
