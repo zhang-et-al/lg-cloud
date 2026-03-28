@@ -9,5 +9,7 @@ And you're good to go! Use
 $ livepic <image1> <image2> ...
 ```
 to upload a PNG, GIF or JPG, and
-```livefile <file1> <file2> ...```
+```
+$ livefile <file1> <file2> ...
+```
 to post anything else (albeit all files will be served with `video/mp4` mimetype)
